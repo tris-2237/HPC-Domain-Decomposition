@@ -1,0 +1,16 @@
+Color Name,Temperature (Fahrenheit),Temperature (Celsius),Intuitive Interpretation,DBZ,Precipitation Rate/Type and Description,Hex Code
+white,-16.0,-26.0,extremely cold,75.0,undetermined intense echoes,#FFFFFF
+fuchisa,12.0,-10.0,very cold,70.0,"16, very heavy rain",#FF49D1
+pink,7.0,-13.0,quite cold,65.0,"8-16, very heavy rain",#F99A7B
+red,89.0,30.0,extremely hot,60.0,"4-8,very heavy rain",#FE0512
+maroon,93.0,34.0,very hot,55.0,"2-4, very heavy rain",#BC0000
+orange,82.0,28.0,quite hot,50.0,"1-2, heavy rain",#FF9932
+mustard,78.0,25.0,hot,45.0,"0.5-1, heavy rain",#FCC11E
+yellow,73.0,22.0,quite warm,40.0,"0.5, heavy rain",#FFD53D
+neon yellow,67.0,20.0,warm,35.0,"0.25, moderate rain",#FFDD21
+neon green,57.0,13.0,pleasant,30.0,0.1-0.17 high to moderate rain,#39FF14
+lawn green,54.0,11.0,nice,25.0,"0.07-0.1, light rain",#4BAC01
+bottle green,43.0,8.0,cool,20.0,"0.05, light rain",#326C05
+deep green,35.0,3.0,chilly,15.0,"0.025, light snow",#214803
+dark green,30.0,1.0,cold,10.0,"0.01, mist",#102401
+black,26.0,-5.0,freezing,5.0,"trace, mist, ground clutter",#000000
